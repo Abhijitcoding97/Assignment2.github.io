@@ -1,7 +1,7 @@
 # Assignment2
-**website**: https://abhijitcoding97.github.io
+**website**: https://Abhijitcoding97.github.io
 #
-**live url**: https://abhijitcoding97.github.io/Assignment2.github.io/
+**live url**: https://Abhijitcoding97.github.io/Assignment2.github.io/
 ## Desktop View
 ![Assignment 2](assets12/assi2.jpg)
 # used Language
